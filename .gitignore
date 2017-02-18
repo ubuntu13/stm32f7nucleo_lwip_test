@@ -1,0 +1,10 @@
+# Compiled source #
+###################
+*.o
+*.bin
+*.map
+*.hex
+*.d
+*.mk
+
+.settings
